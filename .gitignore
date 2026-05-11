@@ -42,3 +42,9 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Commit history scripts (not part of the project)
+commit_history.ps1
+fix_initial_commit.ps1
+redate_initial.sh
+*.sh
